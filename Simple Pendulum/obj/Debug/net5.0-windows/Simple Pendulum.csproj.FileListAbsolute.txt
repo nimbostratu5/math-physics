@@ -1,0 +1,18 @@
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\bin\Debug\net5.0-windows\Simple Pendulum.exe
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\bin\Debug\net5.0-windows\Simple Pendulum.deps.json
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\bin\Debug\net5.0-windows\Simple Pendulum.runtimeconfig.json
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\bin\Debug\net5.0-windows\Simple Pendulum.runtimeconfig.dev.json
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\bin\Debug\net5.0-windows\Simple Pendulum.dll
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\bin\Debug\net5.0-windows\ref\Simple Pendulum.dll
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\bin\Debug\net5.0-windows\Simple Pendulum.pdb
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.csprojAssemblyReference.cache
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple_Pendulum.Form1.resources
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.csproj.GenerateResource.cache
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.AssemblyInfoInputs.cache
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.AssemblyInfo.cs
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.dll
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\ref\Simple Pendulum.dll
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.pdb
+C:\Users\Nimbostratus\Desktop\GITHUB\Math & Physics\Simple Pendulum\obj\Debug\net5.0-windows\Simple Pendulum.genruntimeconfig.cache
