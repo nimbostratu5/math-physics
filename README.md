@@ -1,8 +1,8 @@
-﻿# The Simple Pendulum:
+The Simple Pendulum:
 ![Alt text](https://www.pywiz.net/img/algo.jpg "Optional title")
 
 
-﻿# The Double Pendulum:
+The Double Pendulum:
  
  
- ﻿# The Spring Pendulum:
+The Spring Pendulum:
