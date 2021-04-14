@@ -32,7 +32,6 @@ namespace Simple_Pendulum
             w = Math.Sqrt(981 / length) / 100;
             point1 = new PointF(width / 2, 100);
             circle = new Rectangle(0, 0, 40, 40);
-
         }
 
         Pen red = new Pen(Color.Red);
