@@ -1,7 +1,7 @@
 The Simple Pendulum:
 
 
-![Alt text](https://www.pywiz.net/img/algo.jpg "Optional title")
+![Alt text](https://www.pywiz.net/img/pendulum.png "Optional title")
 
 
 The Double Pendulum:
